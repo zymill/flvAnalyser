@@ -1,6 +1,5 @@
-# flvAnalyser
+# flvAnalyser （CHN）
 # E-mail: hybase@qq.com
-FLV Analyser (CHN)
 
 Please tell me if you meet any problems.
 （mode 1：commit issues at here; mode 2: email to me）

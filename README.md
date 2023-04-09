@@ -12,4 +12,4 @@ CSDN：[https://blog.csdn.net/zymill]
 
     E-mail: hybase@qq.com
     QQ: 23207689
-    微信：hybase
+    微信：hybase  （添加时请标注 flv 或 flvAnalyser）

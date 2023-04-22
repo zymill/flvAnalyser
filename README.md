@@ -30,8 +30,12 @@ CSDN：[https://blog.csdn.net/zymill]
 
 1 https://rtmp.veriskope.com/docs/spec/
 
-2 https://helpx.adobe.com/adobe-media-server/dev/adding-metadata-live-stream.html
+2 https://rtmp.veriskope.com/pdf/amf0-file-format-specification.pdf
 
-3 https://melpon.github.io/rfc/rtmpe.html
+3 https://rtmp.veriskope.com/pdf/amf3-file-format-spec.pdf
 
-4 https://github.com/veovera/enhanced-rtmp
+4 https://helpx.adobe.com/adobe-media-server/dev/adding-metadata-live-stream.html
+
+5 https://melpon.github.io/rfc/rtmpe.html
+
+6 https://github.com/veovera/enhanced-rtmp

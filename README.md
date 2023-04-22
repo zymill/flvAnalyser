@@ -25,3 +25,10 @@ CSDN：[https://blog.csdn.net/zymill]
     E-mail: hybase@qq.com
     QQ: 23207689
     微信：hybase  （添加时请标注 flv 或 flvAnalyser）
+    
+## 参考链接
+
+1 https://rtmp.veriskope.com/docs/spec/
+2 https://helpx.adobe.com/adobe-media-server/dev/adding-metadata-live-stream.html
+3 https://melpon.github.io/rfc/rtmpe.html
+4 https://github.com/veovera/enhanced-rtmp

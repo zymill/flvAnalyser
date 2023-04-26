@@ -10,7 +10,7 @@
 ...
 更多详情请参考说明文档
 
-## flvAnalyser （CHN）
+## flvAnalyser（CHN）
 
     历史版本，请查看目录 history_version
 
@@ -23,7 +23,7 @@
 CSDN：[https://blog.csdn.net/zymill]
 
     E-mail: hybase@qq.com
-    微信：hybase  （添加时请标注 flv 或 flvAnalyser）
+    微信：hybase （添加时请标注 flv 或 flvAnalyser）
     
 ## 参考链接
 

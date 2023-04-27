@@ -8,7 +8,7 @@
 ![h265-nalu](https://user-images.githubusercontent.com/18504455/232966785-9b594660-8ae9-42c0-bfb4-8205badc60f8.png)
 
 ...
-更多详情请参考说明文档
+更多详情请参考说明文档, 下载建议使用GIT工具
 
 ## flvAnalyser（CHN）
 

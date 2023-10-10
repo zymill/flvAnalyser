@@ -13,6 +13,11 @@
 ## Enhanced RTMP v1
 ![enhanced_rtmp_03](https://github.com/zymill/flvAnalyser/assets/18504455/d6ae4388-ad00-4f00-be7e-4575cd742501)
 ...
+## 遇到 MSVCR120.dll 不存在的场景
+
+请点击  https://zhuanlan.zhihu.com/p/623106722
+
+参考上面链接文章第5小节 “运行错误指南”
 
 ## flvAnalyser（Chinese or English）
 

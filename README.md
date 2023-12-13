@@ -28,14 +28,10 @@
     * mode 2: email to me;
     * mode 3: welcome to use WebChat;
 
-    [使用过程中遇到任何问题，恳请及时告诉我，谢谢!]
 
 知乎 (Chinese)：[https://www.zhihu.com/people/zymill]
 
-CSDN (Chinese)：[https://blog.csdn.net/zymill]
-
     E-mail: hybase@qq.com
-    微信(WeChat)：hybase （Please Note with 'flv' or 'flvAnalyser'）
     
 ## Links
 

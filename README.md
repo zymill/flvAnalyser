@@ -31,7 +31,7 @@
 
 知乎 (Chinese)：[https://www.zhihu.com/people/zymill]
 
-    E-mail: hybase@qq.com
+    E-mail: zymill@163.com
     
 ## Links
 

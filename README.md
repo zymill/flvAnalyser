@@ -26,7 +26,6 @@
     Please tell me if you meet any problems or good ideas.
     * mode 1：commit issues at here; 
     * mode 2: email to me;
-    * mode 3: welcome to use WebChat;
 
 
 知乎 (Chinese)：[https://www.zhihu.com/people/zymill]

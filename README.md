@@ -32,8 +32,16 @@
 
 flvAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/2344723]
 
-    E-mail: zymill@163.com
-    
+    E-mail: hybase@qq.com  微信：wybase
+
+## 支持和赞赏
+
+ * 如果您愿意支持本软件的长期发展，可以通过微信赞赏。谢谢！
+ 
+<center class="half">
+    <img src="image/zs.jpg" width="640"/>
+</center>    
+
 ## Links
 
 1 https://rtmp.veriskope.com/docs/spec/
@@ -47,3 +55,9 @@ flvAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/234472
 5 https://melpon.github.io/rfc/rtmpe.html
 
 6 https://github.com/veovera/enhanced-rtmp
+
+## hysAnalyser
+
+  推荐 一款特色的TS流分析工具
+
+  hysAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/2517652]

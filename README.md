@@ -42,6 +42,16 @@ flvAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/234472
     <img src="image/zs.jpg" width="400"/>
 </center>    
 
+
+## hysAnalyser
+
+  推荐 一款特色的TS流分析工具
+
+  * hysAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/2517652]
+
+  * TS流分析专栏 (腾讯云): [https://cloud.tencent.com/developer/column/105278]
+
+
 ## Links
 
 1 https://rtmp.veriskope.com/docs/spec/
@@ -56,8 +66,4 @@ flvAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/234472
 
 6 https://github.com/veovera/enhanced-rtmp
 
-## hysAnalyser
 
-  推荐 一款特色的TS流分析工具
-
-  hysAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/2517652]

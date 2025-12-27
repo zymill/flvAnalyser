@@ -34,6 +34,15 @@ flvAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/234472
 
     E-mail: hybase@qq.com  微信：wybase
 
+## **hysAnalyser**
+
+  推荐 **一款特色的TS流分析工具**
+
+  * hysAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/2517652]
+
+  * TS流分析专栏 (腾讯云): [https://cloud.tencent.com/developer/column/105278]
+
+
 ## 支持和赞赏
 
  * 如果您愿意支持本软件的长期发展，可以通过微信赞赏。谢谢！
@@ -41,15 +50,6 @@ flvAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/234472
 <center class="half">
     <img src="image/zs.jpg" width="400"/>
 </center>    
-
-
-## hysAnalyser
-
-  推荐 一款特色的TS流分析工具
-
-  * hysAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/2517652]
-
-  * TS流分析专栏 (腾讯云): [https://cloud.tencent.com/developer/column/105278]
 
 
 ## Links

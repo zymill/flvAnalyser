@@ -45,7 +45,7 @@ flvAnalyser综述 (Chinese): [https://cloud.tencent.com/developer/article/234472
 
 ## 支持和赞赏
 
- * 如果您愿意支持本软件的长期发展，可以通过微信赞赏。谢谢！
+ * 如果您愿意支持 flvAnalyser 的长期发展，欢迎通过微信赞赏。谢谢！
  
 <center class="half">
     <img src="image/zs.jpg" width="400"/>
